@@ -28,6 +28,12 @@ epic_tragedy[:montague]
 [:age]
 [:status] = "dead"
 
+epic_tragedy[:capulet]
+[:heroine]
+[:name]
+[:age]
+[:status] = "dead"
+
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
