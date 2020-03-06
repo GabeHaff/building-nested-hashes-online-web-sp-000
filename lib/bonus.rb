@@ -1,3 +1,8 @@
+epic_tragedy[:montague]
+[:hero]
+[:status] = "dead"
+epic_tragedy[:capulet][:heroine][:status] = "Dead"
+end 
 def bonus
   epic_tragedy = {
    :montague => {
