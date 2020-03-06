@@ -26,14 +26,14 @@ epic_tragedy[:montague]
 [:hero]
 [:name]
 [:age]
-[:status] = "dead"
+[:status] => "dead"
 
 
 epic_tragedy[:capulet]
 [:heroine]
 [:name]
 [:age]
-[:status] = "dead"
+[:status] => "dead"
 
 
 
